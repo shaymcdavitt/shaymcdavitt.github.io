@@ -82,6 +82,11 @@ body,html {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: rgb(255, 255, 255)}
 
+.home{
+  grid-column: 2;
+  grid-row: 1;
+}
+
 .icon2 {
     grid-column: 2;
     grid-row: 1;
@@ -395,6 +400,10 @@ ul li {
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: rgb(255, 255, 255)}
   
+  .home{
+    grid-column: 2;
+    grid-row: 1;
+  }
   
   .icon2 {
     grid-column: 2;
